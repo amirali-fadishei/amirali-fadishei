@@ -32,9 +32,11 @@ Here are the technologies and tools I work with:
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirali-fadishei&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Amirali's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amirali-fadishei&theme=radical&show_icons=true&hide_border=false&count_private=false" alt="Amirali's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirali-fadishei&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Amirali's Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirali-fadishei&theme=radical&hide_border=false" alt="Amirali's Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirali-fadishei&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Amirali's Top Languages"/>
 </p>
 
 ---
@@ -44,9 +46,6 @@ Here are the technologies and tools I work with:
 Feel free to reach out. I'm always open to new opportunities and collaborations!
 
 <p align="left">
-  <a href="https://github.com/amirali-fadishei" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://linkedin.com/in/amirali-fadishei" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
